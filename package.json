@@ -4,6 +4,6 @@
     "exp": "^53.1.0",
     "expo": "^27.0.1",
     "react": "^16.3.2",
-    "react-native": "^0.55.4"
+    "react-native": "0.54"
   }
 }
